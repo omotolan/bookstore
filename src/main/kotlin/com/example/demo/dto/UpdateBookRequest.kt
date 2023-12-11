@@ -5,6 +5,6 @@ class UpdateBookRequest {
 
     var author: String? = null
 
-    var available: Boolean = true
+    var available: Boolean? = null
 
 }
